@@ -4,20 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0ac35fa-b0ff-4939-b2f2-9245772a147c" name="Changes" comment="" />
+    <list default="true" id="f0ac35fa-b0ff-4939-b2f2-9245772a147c" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/Practicum2/ZADANIE21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/Zadanie9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/zadanie10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/zadanie12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/zadanie18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/zadanie19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/zadanie20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicum2/zadanie22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NsuChernyakPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NsuChernyakPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mchernyak25"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:mchernyak25/NsuChernyakPython.git",
+    "accountId": "0f877948-e2de-42b8-b7cc-adce0cff6ff1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3KXMo3TSZidFevUPvXS089G3Jm5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,12 +73,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ZADANIE21.executor": "Run",
+    "Python.Zadanie1.executor": "Run",
+    "Python.Zadanie11.executor": "Run",
+    "Python.Zadanie13.executor": "Run",
+    "Python.Zadanie14.executor": "Run",
+    "Python.Zadanie15.executor": "Run",
+    "Python.Zadanie16.executor": "Run",
+    "Python.Zadanie17.executor": "Run",
+    "Python.Zadanie2.executor": "Run",
+    "Python.Zadanie23.executor": "Run",
+    "Python.Zadanie3.executor": "Run",
+    "Python.Zadanie4.executor": "Run",
+    "Python.Zadanie5.executor": "Run",
+    "Python.Zadanie6.executor": "Run",
+    "Python.Zadanie7.executor": "Run",
+    "Python.Zadanie8.executor": "Run",
+    "Python.zadanie10.executor": "Run",
+    "Python.zadanie12.executor": "Run",
+    "Python.zadanie18.executor": "Run",
+    "Python.zadanie19.executor": "Run",
+    "Python.zadanie20.executor": "Run",
+    "Python.zadanie22.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/matveichernyak/PycharmProjects/NsuChernyakPython",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -168,5 +239,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
